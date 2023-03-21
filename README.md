@@ -25,3 +25,8 @@ After cloning the repository, type the following into your terminal to download 
 Click on the link below to be taken to the heroku deployment of this application.
 
 https://floating-mesa-79815.herokuapp.com/
+
+
+## Images
+
+![J.A.T.E](./Screenshot/jate.png)
